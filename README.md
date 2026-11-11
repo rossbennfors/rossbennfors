@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Ross 👋</h1>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29nbXRlZ3ZnenczOHpxNGZlaWFqY2N6dzduMGhjY3hvZzVidTNpeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cuZIeohJs3ZLRHWItB/giphy.gif" width="1000" alt="description">
 <p align="center">
   <strong>Data Analyst</strong> · Solving data complexities · Visualizing data · Building solutions for data problems
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ross-bennfors-956a301b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
